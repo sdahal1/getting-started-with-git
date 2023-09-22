@@ -2,3 +2,4 @@ Lakers
 Warriors
 Wizards
 Jazz
+Bulls
